@@ -1,0 +1,101 @@
+name,rating,episode_run_time,genres,popularity,Documentary,Drama,Reality,Animation,Talk,Action & Adventure,Crime,Sci-Fi & Fantasy,News,Mystery,Kids,Family,Western,Soap,Comedy,Cluster,AggloCluster,DBSCANCluster
+Squid Game,7.9,0,"['Action & Adventure', 'Mystery', 'Drama']",2111.7522,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,-1
+The Late Late Show with Craig Ferguson,6.785,60,"['Comedy', 'Talk']",805.4902,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0
+The Late Show with Stephen Colbert,6.362,0,"['Comedy', 'Talk']",708.1901,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,-1
+The Daily Show,6.367,30,"['News', 'Comedy']",659.9982,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,2,-1
+Among Friends,3.2,12,"['Drama', 'Family']",633.2599,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,-1
+Ici tout commence,6.9,28,"['Soap', 'Drama']",637.4383,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Late Show with David Letterman,6.325,63,"['Talk', 'Comedy']",563.4259,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0
+Grey's Anatomy,8.225,0,['Drama'],560.5411,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Late Night with Seth Meyers,5.333,45,"['Talk', 'Comedy']",552.6559,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0
+The Kelly Clarkson Show,6.5,60,['Talk'],540.1395,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1
+Conan,7.068,60,"['Talk', 'Comedy', 'News']",548.8549,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,2,-1
+Last Week Tonight with John Oliver,7.9,0,"['Talk', 'Comedy', 'News']",546.9708,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,2,2,-1
+My Little Pony: Friendship Is Magic,8.153,22,"['Animation', 'Comedy', 'Sci-Fi & Fantasy', 'Kids']",501.2217,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,3,1,-1
+Keeping Up with the Kardashians,7.4,42,['Reality'],475.1613,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+WWE 205 Live,5.838,60,"['Action & Adventure', 'Drama']",469.982,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+The Loud House,7.833,11,"['Animation', 'Comedy', 'Family', 'Kids', 'Mystery']",441.4122,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,1,-1
+The Merv Griffin Show,5.75,60,['Talk'],438.382,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1
+NCIS,7.6,0,"['Crime', 'Drama', 'Action & Adventure']",438.0015,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1
+Chespirito: Not Really on Purpose,8.082,0,"['Drama', 'Comedy']",432.0764,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1
+The Amazing Race,6.873,42,['Reality'],402.3283,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+Rooster Teeth Animated Adventures,8.6,0,"['Animation', 'Comedy', 'Talk']",414.3794,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Grange Hill,6.68,25,['Drama'],280.0475,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Tomorrow Is Ours,6.343,25,"['Crime', 'Drama', 'Soap']",326.4028,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,-1
+The Loud House,7.833,11,"['Animation', 'Comedy', 'Family', 'Kids', 'Mystery']",441.4122,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,1,-1
+The Merv Griffin Show,5.75,60,['Talk'],438.382,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1
+Robert Montgomery Presents,5.6,60,['Drama'],254.329,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Sturm der Liebe,6.068,50,"['Drama', 'Soap']",353.8087,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+Comedy Nights with Kapil,7.026,0,['Comedy'],346.06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+The Voice,5.9,0,['Reality'],176.015,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+The Powerpuff Girls,7.547,12,"['Action & Adventure', 'Animation', 'Comedy', 'Kids', 'Family']",309.6643,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,1,1,-1
+Late Show with David Letterman,6.325,63,"['Talk', 'Comedy']",563.4259,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0
+The Tonight Show Starring Jimmy Fallon,5.86,45,"['Comedy', 'Talk']",320.917,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0
+Watch What Happens Live with Andy Cohen,5.1,30,"['Talk', 'Comedy']",329.3886,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,2,0
+7de Laan,5.0,30,['Soap'],378.8837,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4
+Lassie,6.1,24,"['Action & Adventure', 'Drama', 'Family', 'Comedy']",226.6978,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,-1
+Horizon,7.516,60,['Documentary'],315.0807,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Sazae-san,6.5,25,"['Animation', 'Comedy', 'Family']",304.0919,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,-1
+The Rookie,8.528,0,"['Crime', 'Drama', 'Comedy']",309.4369,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,-1
+Monster High,7.8,3,"['Comedy', 'Animation']",146.9738,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Law & Order,7.399,42,"['Crime', 'Drama']",290.5806,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Law & Order,7.399,42,"['Crime', 'Drama']",290.5806,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Klan,4.7,25,['Soap'],307.5561,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4
+Overlord,8.49,24,"['Animation', 'Sci-Fi & Fantasy', 'Action & Adventure']",339.2403,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3,-1
+Urusei Yatsura,7.513,26,"['Animation', 'Comedy', 'Sci-Fi & Fantasy', 'Drama']",171.3568,0,1,0,1,0,0,0,1,0,0,0,0,0,0,1,3,3,-1
+Die Rosenheim-Cops,6.5,45,"['Crime', 'Comedy']",283.5927,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,-1
+Good Mythical Morning,7.037,10,['Comedy'],290.9406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Top of the Pops,6.6,40,['Reality'],243.6828,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+Castle,8.0,45,"['Drama', 'Crime']",186.875,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+Men on a Mission,7.528,90,"['Reality', 'Comedy']",295.2897,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Cops,6.668,30,['Reality'],316.9378,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+Chronicles of the Sun,6.715,26,['Soap'],261.8692,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4
+Supernatural,8.3,45,"['Drama', 'Mystery', 'Sci-Fi & Fantasy']",284.9941,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,-1
+Meet the Press,4.316,53,"['News', 'Talk']",245.0118,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,-1
+Radio Star,7.3,80,['Talk'],284.3094,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1
+The Carol Burnett Show,7.7,54,"['Comedy', 'Family']",148.2509,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,-1
+Pauw & Witteman,7.0,50,[],275.5847,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Game of Thrones,8.457,0,"['Sci-Fi & Fantasy', 'Drama', 'Action & Adventure']",257.4504,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,3,3,-1
+Blaze and the Monster Machines,7.2,23,"['Kids', 'Animation', 'Family', 'Comedy']",279.4844,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,-1
+The Tom and Jerry Show,7.352,7,"['Family', 'Animation', 'Comedy', 'Kids']",234.8864,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,-1
+Ikaw Lang Ang Mamahalin,0.0,30,['Drama'],215.1006,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Off Camera with Sam Jones,4.0,58,['Talk'],338.2224,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1
+Pokémon,7.9,0,"['Animation', 'Action & Adventure', 'Sci-Fi & Fantasy']",231.1528,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3,-1
+Survivor,7.4,0,['Reality'],216.6318,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+The Life and Legend of Wyatt Earp,6.75,0,"['Drama', 'Western']",228.6522,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+The Flash,7.77,0,"['Drama', 'Sci-Fi & Fantasy']",279.8803,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3,-1
+Adventure Time,8.496,11,"['Animation', 'Comedy', 'Sci-Fi & Fantasy']",178.5397,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,3,3,-1
+Suidooster,7.217,0,['Soap'],237.3728,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4
+Teen Titans Go!,6.5,11,"['Animation', 'Action & Adventure', 'Comedy', 'Family', 'Sci-Fi & Fantasy']",236.603,0,0,0,1,0,1,0,1,0,0,0,1,0,0,1,3,3,-1
+Jeopardy!,6.906,30,"['Reality', 'Family']",282.5251,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,-1
+Ghost Whisperer,8.1,0,"['Sci-Fi & Fantasy', 'Mystery', 'Drama']",263.4944,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,-1
+America's Next Top Model,5.291,42,['Reality'],226.8738,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+The Simpsons,8.015,22,"['Family', 'Animation', 'Comedy']",229.9662,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,-1
+Infinite Challenge,7.6,90,"['Reality', 'Comedy']",238.0759,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Dragon Ball Z,8.3,26,"['Animation', 'Sci-Fi & Fantasy', 'Action & Adventure']",173.831,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3,-1
+Law & Order: Special Victims Unit,7.936,43,"['Crime', 'Drama', 'Mystery']",211.0254,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,-1
+Squid Game: The Challenge,6.365,0,['Reality'],235.7655,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+Ninja Hattori-kun,6.8,6,"['Animation', 'Action & Adventure', 'Comedy', 'Family', 'Kids']",241.9112,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1,1,1,-1
+The Secret Storm,3.7,30,['Soap'],157.3838,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4
+Tyler Perry's House of Payne,7.593,30,['Comedy'],122.2595,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Anderson Cooper 360°,5.1,0,"['News', 'Talk']",170.7847,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,-1
+Star Trek: Lower Decks,7.613,27,"['Sci-Fi & Fantasy', 'Animation', 'Comedy']",115.7364,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,3,3,-1
+Law & Order: Criminal Intent,7.571,42,['Drama'],238.2503,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Homicide,4.3,50,"['Drama', 'Crime', 'Action & Adventure']",138.6547,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1
+"Goede Tijden, Slechte Tijden",5.342,30,['Soap'],223.7751,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,4
+Trail of Lies,6.1,60,"['Soap', 'Drama', 'Family']",208.2627,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,-1
+Naruto,8.365,24,"['Animation', 'Action & Adventure', 'Sci-Fi & Fantasy']",189.9344,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,3,3,-1
+Castle Einstein,5.7,25,"['Family', 'Drama']",107.9466,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,-1
+Spidey and His Amazing Friends,7.267,12,"['Kids', 'Animation', 'Comedy']",256.9992,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,-1
+Timon and Pumbaa,7.23,0,"['Animation', 'Comedy', 'Kids', 'Family']",203.5825,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,1,-1
+This Old House,5.4,30,"['Documentary', 'Reality']",212.2468,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Everybody Loves Raymond,6.794,30,['Comedy'],209.572,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Des squelettes dans le placard,0.0,30,[],225.341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+Rapunzel's Tangled Adventure,7.2,21,"['Kids', 'Animation', 'Comedy']",246.9156,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,-1
+New Amsterdam,8.352,43,['Drama'],147.4085,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Rainbow,6.579,20,"['Comedy', 'Kids']",231.0312,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,-1
+WWE Main Event,7.897,60,"['Action & Adventure', 'Drama', 'Reality']",219.0045,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+America's Funniest Home Videos,6.647,0,"['Comedy', 'Talk', 'Reality']",149.5067,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Family Guy,7.385,22,"['Animation', 'Comedy']",214.813,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,-1
+Who Wants to Be a Millionaire?,6.25,60,['Talk'],338.0195,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1
+The Grim Adventures of Billy and Mandy,8.0,11,"['Animation', 'Comedy', 'Kids']",195.4639,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,-1
